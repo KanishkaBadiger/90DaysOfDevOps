@@ -13,13 +13,14 @@ DevOps is a culture and set of practices that brings development and operations 
 ## Why I Am Learning DevOps
 
 - To prepare for DevOps and Cloud Engineer roles.
+- To get a job and start my career 
 - To deploy real-world applications confidently.
 - To gain practical skills used by modern software companies.
 - To improve my problem-solving and automation skills.
 
 ## My Goals for the Next 90 Days
 
-1. Build a strong foundation in Linux, Networking, Git, Docker, Kubernetes, and AWS.
+1. Build a strong foundation in Linux, Networking, Git, Docker, Kubernetes and AWS.
 2. Deploy a production-ready application using Docker and cloud services.
 3. Build CI/CD pipelines and create DevOps projects that strengthen my resume and interview preparation.
 
@@ -31,7 +32,7 @@ DevOps is a culture and set of practices that brings development and operations 
 
 ## Weekly Time Budget
 
-- Monday–Friday: 2 hours/day
+- Monday–Friday: 3 hours/day
 - Saturday & Sunday: 4–5 hours/day
 - Sunday evening: Revision and practice
 
@@ -45,4 +46,4 @@ DevOps is a culture and set of practices that brings development and operations 
 
 ## My Commitment
 
-For the next 90 days, I will stay consistent, complete every assignment honestly, and focus on learning rather than rushing through topics. My goal is to become confident in DevOps and Cloud technologies and be ready for internships and full-time opportunities.
+For the next 90 days, I will stay consistent, complete every assignment honestly and focus on learning rather than rushing through topics. My goal is to become confident in DevOps and Cloud technologies and be ready for internships and full-time opportunities.
